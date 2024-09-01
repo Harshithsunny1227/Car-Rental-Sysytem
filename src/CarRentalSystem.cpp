@@ -21,7 +21,7 @@ int main(){
     UsersDb UsersDataBase;
     CarsDb CarsDataBase;
     string curr_date=curr_date_time();
-    cout<<endl<<"Welcome to Car Rental System, IIT Kanpur!"<<endl;
+    cout<<endl<<"Welcome to Car Rental System, IIT Kharagpur!"<<endl;
     cout<<endl;
     cout<<"Loading Data..."<<endl;
     cout<<"Data loading successful!"<<endl<<endl;
